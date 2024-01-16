@@ -32,7 +32,7 @@ Instalação e Execução
 - git clone https://github.com/Kaique-alves/projeto-ERP.git
 - Abra o projeto na sua IDE preferida (Visual Studio, por exemplo).
 - Configure o banco de dados conforme as instruções no arquivo configSQL.
-- Execute a aplicação.
+- Execute a aplicação nomeada de 211469.
 
 Contribuição
 
