@@ -1,0 +1,91 @@
+D:\kaique\DS\211469\bin\Debug\211469.exe.config
+D:\kaique\DS\211469\bin\Debug\211469.exe
+D:\kaique\DS\211469\bin\Debug\211469.pdb
+D:\kaique\DS\211469\obj\Debug\211469.csproj.AssemblyReference.cache
+D:\kaique\DS\211469\obj\Debug\_211469.FrmMenu.resources
+D:\kaique\DS\211469\obj\Debug\_211469.Properties.Resources.resources
+D:\kaique\DS\211469\obj\Debug\211469.csproj.GenerateResource.cache
+D:\kaique\DS\211469\obj\Debug\211469.csproj.CoreCompileInputs.cache
+D:\kaique\DS\211469\obj\Debug\211469.exe
+D:\kaique\DS\211469\obj\Debug\211469.pdb
+D:\kaique\DS\211469\bin\Debug\BouncyCastle.Crypto.dll
+D:\kaique\DS\211469\bin\Debug\Google.Protobuf.dll
+D:\kaique\DS\211469\bin\Debug\K4os.Compression.LZ4.dll
+D:\kaique\DS\211469\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\kaique\DS\211469\bin\Debug\K4os.Hash.xxHash.dll
+D:\kaique\DS\211469\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\kaique\DS\211469\bin\Debug\MySql.Data.dll
+D:\kaique\DS\211469\bin\Debug\System.Buffers.dll
+D:\kaique\DS\211469\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\kaique\DS\211469\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\kaique\DS\211469\bin\Debug\System.IO.Pipelines.dll
+D:\kaique\DS\211469\bin\Debug\System.Memory.dll
+D:\kaique\DS\211469\bin\Debug\System.Numerics.Vectors.dll
+D:\kaique\DS\211469\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\kaique\DS\211469\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\kaique\DS\211469\bin\Debug\ZstdSharp.dll
+D:\kaique\DS\211469\bin\Debug\BouncyCastle.Crypto.xml
+D:\kaique\DS\211469\bin\Debug\Google.Protobuf.pdb
+D:\kaique\DS\211469\bin\Debug\Google.Protobuf.xml
+D:\kaique\DS\211469\bin\Debug\K4os.Compression.LZ4.xml
+D:\kaique\DS\211469\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\kaique\DS\211469\bin\Debug\K4os.Hash.xxHash.xml
+D:\kaique\DS\211469\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\kaique\DS\211469\bin\Debug\MySql.Data.xml
+D:\kaique\DS\211469\bin\Debug\System.Buffers.xml
+D:\kaique\DS\211469\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\kaique\DS\211469\bin\Debug\System.IO.Pipelines.xml
+D:\kaique\DS\211469\bin\Debug\System.Memory.xml
+D:\kaique\DS\211469\bin\Debug\System.Numerics.Vectors.xml
+D:\kaique\DS\211469\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\kaique\DS\211469\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\kaique\DS\211469\obj\Debug\211469.csproj.CopyComplete
+D:\kaique\DS\211469\obj\Debug\_211469.Views.FrmCidades.resources
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\211469.exe.config
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\211469.exe
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\211469.pdb
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\BouncyCastle.Crypto.dll
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\Google.Protobuf.dll
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\K4os.Compression.LZ4.dll
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\K4os.Hash.xxHash.dll
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\MySql.Data.dll
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\System.Buffers.dll
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\System.IO.Pipelines.dll
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\System.Memory.dll
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\System.Numerics.Vectors.dll
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\ZstdSharp.dll
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\BouncyCastle.Crypto.xml
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\Google.Protobuf.pdb
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\Google.Protobuf.xml
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\K4os.Compression.LZ4.xml
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\K4os.Hash.xxHash.xml
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\MySql.Data.xml
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\System.Buffers.xml
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\System.IO.Pipelines.xml
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\System.Memory.xml
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\System.Numerics.Vectors.xml
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\2º Semestre\Desen. sistema\211469\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\2º Semestre\Desen. sistema\211469\obj\Debug\211469.csproj.AssemblyReference.cache
+E:\2º Semestre\Desen. sistema\211469\obj\Debug\_211469.FrmMenu.resources
+E:\2º Semestre\Desen. sistema\211469\obj\Debug\_211469.Properties.Resources.resources
+E:\2º Semestre\Desen. sistema\211469\obj\Debug\_211469.Views.FrmCidades.resources
+E:\2º Semestre\Desen. sistema\211469\obj\Debug\211469.csproj.GenerateResource.cache
+E:\2º Semestre\Desen. sistema\211469\obj\Debug\211469.csproj.CoreCompileInputs.cache
+E:\2º Semestre\Desen. sistema\211469\obj\Debug\211469.csproj.CopyComplete
+E:\2º Semestre\Desen. sistema\211469\obj\Debug\211469.exe
+E:\2º Semestre\Desen. sistema\211469\obj\Debug\211469.pdb
+E:\2º Semestre\Desen. sistema\211469\obj\Debug\_211469.Views.FrmMarcas.resources
+D:\kaique\DS\211469\obj\Debug\_211469.Views.FrmMarcas.resources
+D:\kaique\DS\211469\obj\Debug\_211469.Views.FrmCategoria.resources
+D:\kaique\DS\211469\obj\Debug\_211469.Views.FrmClientes.resources
+D:\kaique\DS\211469\obj\Debug\_211469.Views.FrmProdutos.resources

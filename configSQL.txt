@@ -1,0 +1,6 @@
+Configurações necessarias para o banco de dados.
+
+SERVER = LOCALHOST
+PORTA = 3307
+UID = ROOT
+PASSWORD = etecjau
